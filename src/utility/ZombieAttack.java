@@ -5,6 +5,8 @@ public class ZombieAttack {
 
         System.out.println("Hi");
         System.out.println("Bye");
+        System.out.println("no");
+        
     }
 
 }
